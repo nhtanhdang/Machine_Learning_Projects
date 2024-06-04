@@ -4,6 +4,10 @@ This project aims to predict the median house value using the Housing dataset. T
 
 ## Setup
 
-1. Clone the repository:
-git clone https://github.com/your-username/housing-project.git
-2. Create a virtual environment and activate it:
+1. Clone the repository: git clone https://github.com/nhtanhdang/Machine_Learning_Projects.git
+3. Create a virtual environment and activate it
+4. Install the required packages: pip install -r requirements.txt
+
+## Contributing
+
+If you find any issues or have suggestions for improvement, please feel free to open an issue or submit a pull request.
