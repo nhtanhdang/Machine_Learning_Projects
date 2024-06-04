@@ -1,0 +1,16 @@
+# Python bytecode files
+__pycache__/
+*.pyc
+
+# Virtual environment
+venv/
+
+# OS-specific files
+.DS_Store
+
+# Data and model files
+data/raw/
+models/
+
+# IDE-specific files
+.idea/
